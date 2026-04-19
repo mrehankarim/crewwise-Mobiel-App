@@ -4,6 +4,14 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ashgray">#141821</color>
     <color name="blue">#155DFC</color>
+    <color name="blue_btn">#2C61EF</color>
+    <color name="purple_bg">#198C0AA6</color>
+    <color name="purple">#8C0AA6</color>
+    <color name="orange">#C96D16</color>
+    <color name="orange_bg">#26C96D16</color>
+    <color name="green">#00C950</color>
+    <color name="green_bg">#1200C950</color>
+    <color name="blue_bg">#30155DFC</color>
     <color name="gray">#ECECF0</color>
     <color name="sky">#EDF4FF</color>
     <color name="gray_text">#99000000</color>
