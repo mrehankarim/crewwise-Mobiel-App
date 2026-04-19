@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">crewwise</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logo">Logo</string>
+    <string name="crewwsie_field">Crewwsie Field</string>
+    <string name="built_for_teams_on_the_move">Built for teams on the move</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="update_password">Update Password</string>
+    <string name="reset_password">Reset Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reject">Reject</string>
 </resources>
